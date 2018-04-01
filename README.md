@@ -1,0 +1,2 @@
+# Mathematical_Modeling_Report
+数学与统计学院李朝迁老师开展的数学建模实验课程所对应的实验报告
